@@ -1,0 +1,12 @@
+{
+  "name": "veyra",
+  "version": "0.0.1",
+  "private": true,
+  "engines": {
+    "node": ">=20.0.0",
+    "pnpm": ">=9.0.0"
+  },
+  "scripts": {
+    "preinstall": "npx only-allow pnpm"
+  }
+}
