@@ -40,8 +40,8 @@
 **Objectif :** Créer le squelette du monorepo et les applications vides.
 
 - Monorepo avec **pnpm workspaces**
-- Application **Angular** vide (`apps/frontend`)
-- Application **NestJS** vide (`apps/backend`)
+- Application **Angular** vide (`apps/web`)
+- Application **NestJS** vide (`apps/api`)
 - **Docker Compose** avec PostgreSQL (pgAdmin optionnel — non requis pour démarrer)
 - Configuration de base : TypeScript strict, ESLint, Prettier
 
